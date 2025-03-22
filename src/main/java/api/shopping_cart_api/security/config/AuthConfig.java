@@ -46,7 +46,9 @@ public class AuthConfig {
         SECURED_URLS = List.of(
                 apiPrefix + "/users/user/{userId}",
                 apiPrefix + "/users/update/{userId}",
-                apiPrefix + "/users/delete/{userId}"
+                apiPrefix + "/users/delete/{userId}",
+                apiPrefix + "/api/v1/carts/**",
+                apiPrefix + "/api/v1/cartItems/**"
         );
     }
 
