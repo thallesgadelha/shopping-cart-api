@@ -8,12 +8,12 @@ This project is a Shopping Cart API built using Java and Spring Boot. It provide
 4. Order Processing: Ability to proceed to checkout and place orders.
 
 ### Technologies Used
-Java: Core programming language.
-Spring Boot: Framework for building the application.
-Spring Security: For implementing authentication and authorization.
-JWT (JSON Web Tokens): For stateless authentication.
-MySQL: Relational database for data storage.
-Maven: Dependency management and build automation.
+- Java: Core programming language.
+- Spring Boot: Framework for building the application.
+- Spring Security: For implementing authentication and authorization.
+- JWT (JSON Web Tokens): For stateless authentication.
+- MySQL: Relational database for data storage.
+- Maven: Dependency management and build automation.
 
 ### Getting Started
 #### Prerequisites
